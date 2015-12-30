@@ -1,0 +1,25 @@
+# Site settings
+title: Colleco Network
+description: > # this means to ignore newlines until "baseurl:"
+  Colleco Network is startup team in Taiwan, formosa. We focus on upgrading
+  traditional industries in the way to Business Online, and also provide an
+  Opensource Solution LECO for micro e-commence.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://en.colle.co" # the base hostname & protocol for your site
+
+email: colle@colle.co
+twitter_username: CollecoTeam
+github_username:  Colleco
+facebook_username:
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone:
+copyright:
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
